@@ -1,0 +1,12 @@
+{
+  "name": "gtx-technology",
+  "displayName": "gtx-technology",
+  "expo": {
+    "name": "gtx-technology",
+    "slug": "gtx-technology",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
